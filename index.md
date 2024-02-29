@@ -17,7 +17,7 @@ title: Sean Lo's Resume
 ## Technical Skills
 
 * __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
-* __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP, qTest, Applitools
+* __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Redux, Node.js, Django, PostgreSQL, Grafana, PyTorch, LLM/NLP, qTest, Applitools
 
 ## Experience
 
@@ -25,10 +25,10 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar.
 
 * Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by hundreds of developers and testers
 * Implemented a CI/CD release pipeline with Jenkins, Bash, and Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications
-* Maintained a PlayStation Network account retrieval tool (API/Web/CLI) written in JavaScript leveraging Node.js and MongoDB that handles hundreds of thousands of calls weekly for development and testing
+* Maintained a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing hundreds of thousands of calls weekly across API, web, and CLI for development and testing
 * Proactively led refactoring effort of multiple Python-based internal tools leveraged by several dozens of teams daily for development, testing, and nightly regression jobs
 * Collaborated on the development and maintenance of numerous internal tools providing critical support for teams around the globe
-* Built a Telemetry application written in Python leveraging MongoDB, enabling the collection, analysis, and visualization of metrics from applications. in Grafana, providing clear insights, engagement data, and error tracking for the applications
+* Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
 * Worked closely with cross-functional teams to collect project requirements and align on testing goals
 * Developed and led training workshops and tutorials to hundreds of QA and developers on the testing framework and numerous other tools my team created
 
@@ -42,8 +42,8 @@ __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, 
 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA, Jun. 2020 - Mar. 2021
 
-* Managed end-to-end release and testing of multiple enterprise products across web, iOS, and Android platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
-* Developed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
+* Oversaw end-to-end release and testing of enterprise products across web and mobile platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
+* Designed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
 * Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
 * Collaborated with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
