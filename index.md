@@ -24,7 +24,7 @@ title: Sean Lo's Resume
 __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar. 2024
 
 * Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by hundreds of developers and testers
-* Implemented a CI/CD release pipeline with Jenkins, Bash, and Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications
+* Implemented CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, enabling automated semantic releases for teams delivering PlayStation React Native-based applications
 * Maintained a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing hundreds of thousands of calls weekly across API, web, and CLI for development and testing
 * Proactively led refactoring effort of multiple Python-based internal tools leveraged by several dozens of teams daily for development, testing, and nightly regression jobs
 * Collaborated on the development and maintenance of numerous internal tools providing critical support for teams around the globe
