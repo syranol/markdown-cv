@@ -27,22 +27,20 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar.
 * Implemented CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, enabling automated semantic releases for 30+ teams delivering PlayStation React Native-based applications
 * Maintained a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing hundreds of thousands of calls weekly across API, web, and CLI for development and testing
 * Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs
-* Collaborated on the development and maintenance of numerous internal tools providing critical support for all teams around the globe
 * Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
-* Worked closely with cross-functional teams to collect project requirements and align on testing goals
 * Developed and led training workshops and tutorials to 100+ QA and developers each session on the testing framework and numerous other tools my team created
 
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA, Mar. 2021 - Nov. 2021
 
-* Assisted in the successful launch of PlayStation Direct's expansion to Europe, which enabled direct purchases of PlayStation products via the web store for tens of countries in Europe
-* Developed Selenium automation strategy and drove implementation of end-to-end tests with a focus on stability and maintainability, ensuring prevention of regressions in the product code
+* Assisted in the successful launch of PlayStation Direct's expansion to Europe for 10+ countries reaching 10+ millions monthly visitors 
+* Developed Selenium automation strategy for full-stack project and drove implementation of end-to-end tests with a focus on stability and maintainability
 * Designed, developed, and enhanced automated test suites for web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
-* Collaborated with developers to ensure comprehensive test coverage of all features and bug fixes through the creation and maintenance of automated test suites
-* Assisted team in establishing test frameworks and Jenkins pipelines through implementing automation infrastructure to improve testing efficiency and effectiveness
+* Collaborated with developers to ensure 100% test coverage of all features and bug fixes through the creation and maintenance of automated test suites
+* Implemented automated test frameworks and Jenkins pipelines to improve testing efficiency and effectiveness
 
 __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redlands, CA, Jun. 2020 - Mar. 2021
 
-* Oversaw end-to-end release and testing of enterprise products across web and mobile platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
+* Oversaw end-to-end release and testing of flagship ArcGIS enterprise products across web and mobile platforms, including Dashboard, Insights, Field Maps, QuickCapture, and Tracker
 * Designed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
 * Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
