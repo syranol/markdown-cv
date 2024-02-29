@@ -13,9 +13,13 @@ title: Sean Lo's Resume
   <a href="https://www.linkedin.com/in/syranol"><font color="teal">linkedin.com/in/syranol </font></a>
   <font color="black">|</font> <a href="https://github.com/syranol"><font color="teal">github.com/syranol</font></a> 
 </div>
- 
-- __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
-- __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP, qTest, Applitools
+
+## Technical Skills
+
+* __Languages:__ Python, Bash, Groovy, JavaScript, C/C++, SQL, HTML5/CSS3
+* __Tools/Frameworks:__ Git, AWS, Jenkins, Selenium, React, Redux, Node.js, Django, PostgreSQL, Docker, Kubernetes, Appium, GraphQL, REST, Grafana, PyTorch, LLM/NLP, qTest, Applitools
+
+## Experience
 
 __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar. 2024
 
@@ -40,7 +44,7 @@ __Release Engineer, *Environmental Systems Research Institute (Esri)*__, Redland
 
 * Managed end-to-end release and testing of multiple enterprise products across web, iOS, and Android platforms, including ArcGIS Dashboard, ArcGIS Insights, ArcGIS Field Maps, ArcGIS QuickCapture, and ArcGIS Tracker
 * Developed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
-*  Developed and executed comprehensive test plans and test matrices as part of the product release cycle
+* Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
 * Collaborated with Project Managers, Product Engineers, and various stakeholder teams to continuously deliver product releases 
 * Took ownership for the overall quality of products I was responsible for testing
@@ -51,6 +55,7 @@ __Software Engineer Intern, *First International Computing, INC*__, Fremont, CA 
 * Researched and implemented JNA to convert C to Java, which reduced SDLC by 80% and omitted the need for boilerplates
 * Participated in the planning and integration of infrastructure on Amazon Web Service
 
+## Education
 
 __B.S. Computer Science__ Oregon State University GPA, 3.8 / 4.0, 2017 - 2019
         
