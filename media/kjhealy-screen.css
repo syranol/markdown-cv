@@ -1,1 +1,26 @@
+/* styles.css */
 
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px; /* Set maximum width for the container */
+    margin: 0 auto;   /* Center the container horizontally */
+    padding: 20px;    /* Add padding for content */
+}
+
+/* Increase line spacing for better readability */
+p, ul, ol, pre {
+    line-height: 1.5;
+}
+
+/* Reduce margins between sections */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 10px; /* Adjust as needed */
+}
+
+/* Additional styles as needed */
+v
