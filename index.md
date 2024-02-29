@@ -24,13 +24,13 @@ title: Sean Lo's Resume
 __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar. 2024
 
 * Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by hundreds of developers and testers
-* Implemented CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, enabling automated semantic releases for teams delivering PlayStation React Native-based applications
+* Implemented CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, enabling automated semantic releases for 30+ teams delivering PlayStation React Native-based applications
 * Maintained a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing hundreds of thousands of calls weekly across API, web, and CLI for development and testing
-* Proactively led refactoring effort of multiple Python-based internal tools leveraged by several dozens of teams daily for development, testing, and nightly regression jobs
-* Collaborated on the development and maintenance of numerous internal tools providing critical support for teams around the globe
+* Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs
+* Collaborated on the development and maintenance of numerous internal tools providing critical support for all teams around the globe
 * Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
 * Worked closely with cross-functional teams to collect project requirements and align on testing goals
-* Developed and led training workshops and tutorials to hundreds of QA and developers on the testing framework and numerous other tools my team created
+* Developed and led training workshops and tutorials to 100+ QA and developers each session on the testing framework and numerous other tools my team created
 
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA, Mar. 2021 - Nov. 2021
 
