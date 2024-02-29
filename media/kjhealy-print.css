@@ -3,12 +3,15 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif; /* Use a common font for better compatibility */
 }
 
 .container {
-    max-width: 800px; /* Set maximum width for the container */
-    margin: 0 auto;   /* Center the container horizontally */
-    padding: 20px;    /* Add padding for content */
+    width: 100%; /* Occupy full width */
+    max-width: 800px; /* Limit maximum width to avoid too much stretching */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding for content */
+    box-sizing: border-box; /* Include padding and border in total width */
 }
 
 /* Increase line spacing for better readability */
@@ -23,4 +26,3 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Additional styles as needed */
-v
