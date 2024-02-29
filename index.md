@@ -19,7 +19,10 @@ title: Sean Lo's Resume
 
 __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar. 2024
 
-`-` Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by all development and QA teams that allowed hundreds of developers and testers to execute all forms of testing, including but not limited to end-to-end testing, component testing, and unit testing
+<ul>
+          <li>
+          Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by all development and QA teams that allowed hundreds of developers and testers to execute all forms of testing, including but not limited to end-to-end testing, component testing, and unit testing
+          </li> 
 `-` Continuously developed and implemented a CI/CD release pipeline with Jenkins, Bash, and Groovy that enabled automated semantic releases of all teams delivering PlayStation React Native-based applications
 `-` Maintained and refactored development of a PlayStation Network account retrieval tool (API/Web/CLI) built with Node.js and MongoDB that handles hundreds of thousands of calls weekly for development and testing for PS5 and PlayStation websites used by all development teams and QA teams
 `-` Proactively led effort in the refactoring of multiple Python-based internal tools that are leveraged by several dozens of teams daily for development, testing, and nightly regression jobs
@@ -27,6 +30,7 @@ __Software Engineer, *PlayStation (Sony)*__, San Francisco, CA, Nov. 2021 - Mar.
 `-` Developed and built a Telemetry application with Python and MongoDB, enabling the collection, analysis, and visualization of metrics from all internal applications in Grafana, providing clear insights, engagement data, and error tracking for the applications
 `-` Worked closely with cross-functional teams to collect project requirements and align on testing goals
 `-` Developed and led training workshops and tutorials to hundreds of QA and developers on the testing framework and numerous other tools my team created
+</ul>
 
 __Software Development Engineer in Test, *PlayStation (Sony)*__, San Francisco, CA, Mar. 2021 - Nov. 2021
 
