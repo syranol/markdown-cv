@@ -110,7 +110,35 @@ li ul {
 	margin-top: 0.25em;
 }
 
+h1,h2,h3,h4 {
+	font-weight: 400;
+	font-family: Cousine,Verdana,sans-serif;
+	width: 65%;
+}
 
+h1 {
+	text-align: left;
+	font-size: 3em;
+	line-height: 1em;
+	position: relative;
+	left: 33%;
+}
+
+h1+p { 
+	/*subtitle*/
+	font-style: italic;
+	font-size: 110%;
+}
+
+h2 {
+	font-size: 1.1em;
+	color: #a00;
+	margin-top: 3em;
+	position: relative;
+	top: 1.4em;
+	text-align: right;
+	width: 20%;
+}
 /*
 @media only screen and (max-width: 480px) {
 	make one column somehow...
