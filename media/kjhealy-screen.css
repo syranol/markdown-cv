@@ -56,7 +56,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 80%;
-	line-height: 1.5em;
+	line-height: 1em;
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
 	margin-left: 1em;
@@ -64,7 +64,7 @@ body {
 
 p {
 	position: relative;
-	left: 5%;*/
+	left: 1%;*/
 	margin-bottom: 0.7em;
 	margin-right: 0;
 	width: 100%;
@@ -85,19 +85,13 @@ p code {
 */
 ul { 
 	position: relative;
-	left: 5%;
+	left: 1%;
 	width: 100%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 
-uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
 /*
 li {
 	padding-left: 0.25em;
