@@ -8,12 +8,14 @@ h1 {
 
 h2 {
 	font-size: 2em;
-	color: #a00;
+	line-height: 1em; 
+	/*color: #a00;*/
+	color: teal
 }
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 1em; 
 }
 
 ul { 
