@@ -57,7 +57,7 @@ body {
 	margin-top: 1em;
 	margin-left: 1em;
 }
-
+/*
 p {
 	position: relative;
 	left: 5%;
@@ -65,11 +65,11 @@ p {
 	margin-right: 0;
 	width: 65%;
 }
-
+*/
+/*
 code {
 	font: normal normal;
 	font-size: 60%;
-	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
@@ -78,7 +78,7 @@ p code {
 	position: absolute;
 	left: -14%;
 }
-
+*/
 /*
 ul { 
 	position: relative;
