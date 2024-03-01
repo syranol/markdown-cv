@@ -85,14 +85,14 @@ p code {
 */
 ul { 
 	position: relative;
-	left: 10%;
+	left: 5%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
 
 
-/*uncomment to get dashes in the list*/
+uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
 	position: relative;
@@ -110,4 +110,3 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
-*/
