@@ -73,14 +73,12 @@ code {
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
-/*
+
 p code {
 	position: absolute;
 	left: -14%;
 }
-*/
 
-/*
 ul { 
 	position: relative;
 	left: 10%;
@@ -88,7 +86,7 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
-*/
+
 /*uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
