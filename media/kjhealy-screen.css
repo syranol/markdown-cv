@@ -73,13 +73,14 @@ code {
 	font-family: Menlo,monospace,sans-serif;
 	color: #aaa;
 }
-
+/*
 p code {
 	position: absolute;
 	left: -14%;
 }
+*/
 
-
+/*
 ul { 
 	position: relative;
 	left: 10%;
@@ -87,19 +88,17 @@ ul {
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
-
+*/
 /*uncomment to get dashes in the list*/
 /*li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
 }*/
-
+/*
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -108,3 +107,4 @@ li ul {
 	width: 100%;
 	margin-top: 0.25em;
 }
+*/
