@@ -63,7 +63,7 @@ body {
 }
 
 p {
-	position: relative;
+	/*position: relative;*/
 	left: 25%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
