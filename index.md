@@ -4,7 +4,9 @@ title: Sean Lo's Resume
 --- 
 
 <span class="qr-code">
+  <a href="https://seanlo.netlify.app">
     <img src="media/qr_code.png" alt="QR Code" style="width: 10em; height: 10em;">
+  </a>
 </span>
 
 # S e a n     <span style="opacity:0;">_</span> <font color="teal"> L o
