@@ -1,0 +1,58 @@
+/* Print has reduced margin-top and reduced font-size */
+body {
+	padding: 0em;
+	margin-top: -3em;
+	font-size: 10pt; 
+	font-family: Calibri, sans-serif;
+  }
+
+h1 {
+	font-size: 4em;
+	/*line-height: 1em;*/
+}
+.qr-code {
+	margin-top: 2em;
+    float: right;
+}
+
+.small-right {
+    font-size: smaller;
+    float: right;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 1em; 
+	/*color: #a00;*/
+	color: teal;
+}
+
+h3 {
+	font-size: 1.15em;
+	line-height: 1em; 
+	margin-bottom: -0.50em;
+}
+
+ul { 
+	width: 100%;
+	font-size: 1em;
+}
+
+li {
+	padding-right: 2.5em;
+}
+header, footer {
+	display: none;
+  }
+
+#info {
+	margin-top: -2em;
+}
+
+#info {
+	margin-bottom: -0.25em;
+	margin-top: -2em;
+}
+#info a {
+	text-decoration: none;
+}

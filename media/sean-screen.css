@@ -1,0 +1,56 @@
+/* Screen is has reduced width and increased padding*/
+body {
+	font-family: Calibri, sans-serif;
+	padding-left: 3em;
+	padding-right: 3em;
+	width: 80%;
+  }
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+}
+
+.qr-code {
+	margin-top: 2em;
+    float: right;
+}
+/* Extra spacing between info and technical skills for print */
+#info {
+	margin-top: -1em;
+	padding-bottom: 2em;
+	text-align: center;
+}
+#info a {
+	text-decoration: none;
+}
+
+.small-right {
+    font-size: smaller;
+    float: right;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: 1em; 
+	/*color: #a00;*/
+	color: teal;
+}
+
+h3 {
+	font-size: 1.15em;
+	line-height: 1em; 
+	margin-bottom: -0.50em;
+}
+
+ul { 
+	width: 100%;
+	font-size: 1em;
+}
+
+li {
+	padding-right: 2em;
+}
+header, footer {
+	display: none;
+  }
