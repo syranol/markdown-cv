@@ -15,6 +15,7 @@ h1 {
 	margin-top: 2em;
     float: right;
 }
+
 /* Extra spacing between info and technical skills for print */
 #info {
 	margin-top: -1em;
@@ -23,6 +24,11 @@ h1 {
 }
 #info a {
 	text-decoration: none;
+}
+
+.technical-one {
+	margin-bottom: 0.5em;
+	display: inline-block;
 }
 
 .small-right {

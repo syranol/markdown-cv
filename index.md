@@ -22,8 +22,8 @@ title: Sean Lo's Resume
 
 ## Technical Skills
 
->  <a id="technical"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </a><br>
->  <a id="technical"> **Tools/Frameworks**: Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Django, Node.js, PostgreSQL, Grafana, PyTorch </a>
+>  <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span><br>
+>  <span> **Tools/Frameworks**: Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Django, Node.js, PostgreSQL, Grafana, PyTorch </span>
 
 <!--   
   **Languages:** Python, JavaScript, Bash, C/C++, Groovy, SQL, HTML5/CSS3
@@ -75,6 +75,6 @@ title: Sean Lo's Resume
 
 ## Education
 
-**B.S. Computer Science** - *Oregon State University* <span class="small-right"> Sep. 2017 - Dec. 2019 </span>
+> **B.S. Computer Science** - *Oregon State University* <span class="small-right"> Sep. 2017 - Dec. 2019 </span>
         
-**B.A. Business Economics** - *University of California, Riverside* <span class="small-right"> Sep. 2013 - Jun. 2017 </span>
+> **B.A. Business Economics** - *University of California, Riverside* <span class="small-right"> Sep. 2013 - Jun. 2017 </span>

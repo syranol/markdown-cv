@@ -6,17 +6,14 @@ body {
 	font-family: Calibri, sans-serif;
   }
 
-h1 {
-	font-size: 4em;
-	/*line-height: 1em;*/
-}
 .qr-code {
 	margin-top: 2em;
     float: right;
 }
 
-.small-right {
-    float: right;
+h1 {
+	font-size: 4em;
+	/*line-height: 1em;*/
 }
 
 h2 {
@@ -25,6 +22,20 @@ h2 {
 	/*color: #a00;*/
 	color: teal;
 }
+
+#info {
+	margin-bottom: -0.25em;
+	margin-top: -2em;
+}
+#info a {
+	text-decoration: none;
+}
+
+.technical-one {
+	margin-bottom: 0.5em;
+	display: inline-block;
+}
+
 
 h3 {
 	font-size: 1.15em;
@@ -44,14 +55,6 @@ header, footer {
 	display: none;
   }
 
-#info {
-	margin-top: -2em;
-}
-
-#info {
-	margin-bottom: -0.25em;
-	margin-top: -2em;
-}
-#info a {
-	text-decoration: none;
+.small-right {
+    float: right;
 }
