@@ -43,7 +43,7 @@ title: Sean Lo's Resume
 * Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs, resulting in a 44% decrease in job processing times and 70% increase in developer productivity
 * Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
 * Developed and led training workshops and KT sessions to 200+ QA and developers each session on the testing framework and numerous other tools I created
-* Provided mentorship to team members, assisting them in navigating their career paths while sharing my expertise
+* Mentored more junior team members, helping them reach their full potential and increase team productivity
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
 
