@@ -71,7 +71,7 @@ title: Sean Lo's Resume
 
 * Contributed to the design and maintaience of data collection tools utilizing JavaScript, MySQL, Node.js, and React
 * Researched and implemented Java Native Access (JNA) to convert C to Java, which reduced SDLC by 80% and omitted the need for boilerplates
-* Participated in the planning and integration of infrastructure on Amazon Web Services for FIC products
+* Planned and implemented the migration of codebase infrastructure to Amazon Web Services for FIC products
 
 ## Education
 
