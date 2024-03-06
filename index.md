@@ -4,7 +4,7 @@ title: Sean Lo's Resume
 --- 
 
 <span class="qr-code">
-  <a href="https://seanlo.netlify.app">
+  <a href="https://seanlo.netlify.com">
     <img src="media/qr_code.png" alt="QR Code" style="width: 10em; height: 10em;">
   </a>
 </span>
@@ -16,7 +16,7 @@ title: Sean Lo's Resume
   <a href="https://seanlo.netlify.app">          <font color="teal">    seanlo.netlify.app        </font>   </a>
   <a>                                                                 | seanlo@outlook.com      |           </a>
   <a href="https://www.linkedin.com/in/syranol"> <font color="teal">    linkedin.com/in/syranol   </font>   </a>
-  <a href="https://github.com/syranol">                               | github.com/syranol                  </a>
+  <a href="https://github.com/syranol">          <font color="black"> | github.com/syranol        </font>    </a>
 </div>
 
 
