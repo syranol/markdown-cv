@@ -9,21 +9,21 @@ title: Sean Lo's Resume
   </a>
 </span>
 
-# Sean <font color="teal"> Lo
+# Sean <font color="teal"> Lo 
 
 <div id="info">
-  <a>                                                                   510-386-8647            |           </a>
-  <a href="https://seanlo.netlify.app">          <font color="teal">    seanlo.netlify.app        </font>   </a>
-  <a>                                                                 | seanlo@outlook.com      |           </a>
-  <a href="https://www.linkedin.com/in/syranol"> <font color="teal">    linkedin.com/in/syranol   </font>   </a>
-  <a href="https://github.com/syranol">          <font color="black"> | github.com/syranol        </font>    </a>
+  <a>                                                                   seanlo@outlook.com      |          </a>
+  <a>                                            <font color="teal">    510-386-8647              </font>  </a>
+  <a href="https://seanlo.netlify.app">          <font color="black"> | seanlo.netlify.app      | </font>  </a>
+  <a href="https://www.linkedin.com/in/syranol"> <font color="teal">    linkedin.com/in/syranol   </font>  </a>
+  <a href="https://github.com/syranol">          <font color="black"> | github.com/syranol        </font>  </a>
 </div>
 
 
 ## Technical Skills
 
->  <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span><br>
->  <span> **Tools/Frameworks**: Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Django, Node.js, PostgreSQL, Grafana, PyTorch </span>
+* <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span><br>
+* <span> **Tools/Frameworks**: Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Django, Node.js, PostgreSQL, Grafana, PyTorch </span>
 
 <!--   
   **Languages:** Python, JavaScript, Bash, C/C++, Groovy, SQL, HTML5/CSS3
@@ -37,12 +37,12 @@ title: Sean Lo's Resume
 
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
 
-* Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by 1,000+ of developers and testers
+* Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by 1,000+ developers and testers
 * Implemented CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, enabling automated semantic releases for 30+ teams delivering PlayStation React Native-based applications
 * Maintained a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing 100,000+ calls weekly across API, Web, and CLI for development and testing
 * Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs
 * Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
-* Developed and led training workshops and tutorials to 200+ QA and developers each session on the testing framework and numerous other tools my team created
+* Developed and led training workshops and tutorials for 200+ developers on the testing framework and other tools my team created
 * Provided mentorship to team members, assisting them in navigating their career paths while sharing my expertise
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
@@ -50,7 +50,7 @@ title: Sean Lo's Resume
 <span> San Francisco, CA <span class="small-right">Mar. 2021 - Nov. 2021</span></span>
 
 * Assisted in the successful launch of PlayStation Direct's expansion to Europe for 10+ countries reaching 10,000,000+  monthly visitors 
-* Developed Selenium automation strategy for PlayStation Direct's checkout system and drove implementation of automated end-to-end test suite ensuring 100% test coverage with a focus on stability and maintainability
+* Developed Selenium automation strategy for PlayStation Direct's checkout system and drove implementation of automated end-to-end test suite ensuring 100% coverage with a focus on stability and maintainability
 * Designed, developed, and enhanced internal JavaScript Selenium WebDriver libraries for interacting with Web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
 * Implemented and integrated CI/CD strategies using Groovy and Jenkins to improve testing and development efficiency and effectiveness
 * Worked in collaboration with the QA Lead, developers, project manager, and various stakeholder teams to ensure the continuous delivery of product releases
@@ -74,7 +74,6 @@ title: Sean Lo's Resume
 * Participated in the planning and integration of infrastructure on Amazon Web Services for FIC products
 
 ## Education
-
 **B.S. Computer Science** - *Oregon State University* <span class="small-right"> Sep. 2017 - Dec. 2019 </span>
-        
+
 **B.A. Business Economics** - *University of California, Riverside* <span class="small-right"> Sep. 2013 - Jun. 2017 </span>
