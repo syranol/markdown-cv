@@ -9,7 +9,7 @@ title: Sean Lo's Resume
   </a>
 </span>
 
-# S e a n     <span style="opacity:0;">_</span> <font color="teal"> L o
+# S e a n  <span style="opacity:0;">_</span> <font color="teal"> L o
 
 <div id="info">
   <a>                                                                   510-386-8647            |           </a>
