@@ -63,7 +63,7 @@ title: Sean Lo's Resume
 * Designed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
 * Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
-* Collaborated with Project Managers, Product Engineers, and other teams to ensure successful release of products
+* Collaborated with Project Managers, Product Engineers, and other teams to ensure the successful release of products
 
 ### __Software Engineer Intern - *First International Computing (FIC)*__ <a href="https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKydn0%2FLdQY6Ut2HiDrOFtw%3D%3D"> <font color="teal"> Presentation </font> </a> 
 
