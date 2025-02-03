@@ -33,6 +33,15 @@ title: Sean Lo's Resume
 
 ## Experience
 
+### **Software Engineer** -  *Apple*
+
+<span> Cupertino, CA  <span class="small-right">Apr. 2024 - Current</span> </span>
+
+* Architected and led development of the team's core data collection framework, enabling automated data capture for anti-spoofing and Face ID
+* Defined and drove the technical strategy for data collection pipelines, collaborating with cross-functional teams to implement feature requests 
+* Spearheaded framework adoption and scaling onboarding efforts across the organization
+* Provided technical mentorship to team members, guiding them through technical challenges and career growth
+
 ### **Software Engineer II** -  *PlayStation (Sony)*
 
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
@@ -61,7 +70,7 @@ title: Sean Lo's Resume
 <span> Redlands, CA <span class="small-right">Jun. 2020 - Mar. 2021</span></span>
 
 * Oversaw end-to-end release and testing of flagship ArcGIS enterprise products across 6 web and mobile platforms with ArcGIS Dashboard reaching 1,000,000,000+ calls daily
-* Designed and maintained automation scripts for ArcGIS Dashboard and ArcGIS Insights using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these critical products
+* Designed and maintained automation scripts for key products using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these products
 * Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
 * Collaborated with Project Managers, Product Engineers, and other teams to ensure the successful release of products
