@@ -60,7 +60,7 @@ title: Sean Lo's Resume
 <span> San Francisco, CA <span class="small-right">Mar. 2021 - Nov. 2021</span></span>
 
 * Assisted in the successful launch of PlayStation Direct's expansion to Europe for 10+ countries reaching 10,000,000+  monthly visitors 
-* Developed Selenium automation strategy for PlayStation Direct's checkout system and drove implementation of automated end-to-end test suite ensuring 100% coverage with a focus on stability and maintainability
+* Developed Selenium automation test plan and strategy for PlayStation Direct's checkout system and drove implementation of automated end-to-end test suite ensuring 100% coverage with a focus on stability and maintainability
 * Designed, developed, and enhanced internal JavaScript Selenium WebDriver libraries for interacting with Web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
 * Implemented and integrated CI/CD strategies using Groovy and Jenkins to improve testing and development efficiency and effectiveness
 * Worked in collaboration with the QA Lead, developers, project manager, and various stakeholder teams to ensure the continuous delivery of product releases
@@ -71,7 +71,6 @@ title: Sean Lo's Resume
 
 * Oversaw end-to-end release and testing of flagship ArcGIS enterprise products across 6 web and mobile platforms with ArcGIS Dashboard reaching 1,000,000,000+ calls daily
 * Designed and maintained automation scripts for key products using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these products
-* Developed and executed comprehensive test plans and test matrices as part of the product release cycle
 * Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
 * Collaborated with Project Managers, Product Engineers, and other teams to ensure the successful release of products
 
@@ -79,9 +78,8 @@ title: Sean Lo's Resume
 
 <span> Fremont, CA <span class="small-right">Jun. 2019 - Sep. 2019</span></span>
 
-* Contributed to the design and maintenance of data collection tools utilizing JavaScript, MySQL, Node.js, and React
+* Contributed to the design and maintenance of data collection tools utilizing JavaScript, MySQL, Node.js, React and AWS
 * Researched and implemented Java Native Access (JNA) to convert C to Java, which reduced SDLC by 80% and omitted the need for boilerplates
-* Participated in the planning and integration of infrastructure on Amazon Web Services for FIC products
 
 ## Education
 **B.S. Computer Science** - *Oregon State University* <span class="small-right"> Sep. 2017 - Dec. 2019 </span>
