@@ -22,8 +22,11 @@ title: Sean Lo's Resume
 
 ## Technical Skills
 
-* <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span><br>
-* <span> **Tools/Frameworks**: Git, AWS, Jenkins, Selenium, Docker, Kubernetes, Appium, GraphQL, REST, React, Django, Node.js, PostgreSQL, Grafana, PyTorch </span>
+* <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span>
+* <span> **Automation & Frameworks**: Appium, Selenium, Pytest, Jenkins, Docker, Kubernetes, Terraform </span>
+* <span> **Robotics & Hardware**: Universal Robots, Staubli, Robotic Capture Frameworks, iOS Devices & Lighting Automation, Motion Control </span>
+* <span> **Data & Infra**: AWS, PostgreSQL, MongoDB, Grafana, PyTorch </span>
+* <span> **Other Tools**:Git, REST, GraphQL, CI/CD Pipelines </span>
 
 <!--   
   **Languages:** Python, JavaScript, Bash, C/C++, Groovy, SQL, HTML5/CSS3
@@ -33,27 +36,29 @@ title: Sean Lo's Resume
 
 ## Experience
 
-### **Software Engineer** -  *Apple*
+### **Automation Engineer** -  *Apple*
 
-<span> Cupertino, CA  <span class="small-right">Apr. 2024 - Current</span> </span>
+<span> Cupertino, CA  <span class="small-right">May. 2024 - Aug. 2025</span> </span>
 
-* Architected and led development of the team's core data collection framework, enabling automated data capture for anti-spoofing and Face ID
-* Defined and drove the technical strategy for data collection pipelines, collaborating with cross-functional teams to implement feature requests 
-* Spearheaded framework adoption and scaling onboarding efforts across the organization
-* Provided technical mentorship to team members, guiding them through technical challenges and career growth
+* Architected the team’s core product: an end-to-end data collection automation framework spanning iOS devices, Staubli/UR robots, and RGB/IR lighting — foundational to anti-spoofing training data collection for Face ID and Optic ID.
+* Scaled adoption across HWT Video Engineering, driving organizational efficiency by onboarding multiple teams through documentation, training, and mentorship.
+* Partnered with Hardware, QA, User Studies, and ML/Algorithm teams to deliver high-quality training data for Face ID and Optic ID anti-spoofing, bridging software and hardware workflows.
+* Designed secure data pipelines with verification, sanitization, and PPI compliance, ensuring dataset integrity and supporting Apple’s commitment to privacy.
+* Improved reliability and throughput by implementing recovery and debugging mechanisms, reducing downtime and minimizing reruns across capture workflows.
+* Delivered RGB/IR lighting automation by reverse-engineering Arri IP interfaces, enabling reproducible low-light and IR/RGB test conditions critical for biometric model training.
+* Contributed to next-generation Apple initiatives, supporting confidential hardware/software programs with automation systems at the intersection of hardware and software.
 
 ### **Software Engineer II** -  *PlayStation (Sony)*
 
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
 
-* Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by 1,000+ developers and testers
-* Implemented and standardized CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, facilitating automated semantic releases for 50+ teams delivering PlayStation React Native-based applications
-* Maintained and shipped features for a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing 100,000+ calls weekly across API, Web, and CLI for development and testing
-* Took ownership as both tech lead and product owner of a pivotal tool, driving localization automation and testing across PS4, PS5, and Windows platforms
-* Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs
-* Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
-* Developed and led training workshops and tutorials for 200+ developers on the testing framework and other tools
-* Provided mentorship to team members, assisting them in navigating their career paths while sharing my expertise
+* Drove development of a Python-based Appium Client/Server automation framework, the backbone of end-to-end testing for QA and developer teams, adopted by 1,000+ users across PS4, PS5, Windows, and Web.
+* Standardized CI/CD release pipelines (Jenkins, Bash, Groovy) for 50+ teams, creating a consistent release process that improved velocity, reliability, and reduced integration overhead across the org.
+* Led and served as product owner for localization automation efforts across PS4, PS5, and Windows, eliminating repetitive manual QA cycles and accelerating time-to-market for global releases.
+* Owned and scaled a PlayStation Network developer tool (Node.js, MongoDB) that processed 100,000+ API/Web/CLI calls weekly, serving as a critical service for development and testing workflows.
+* Refactored and consolidated internal Python tooling relied on daily by 20+ teams, transforming fragmented scripts into maintainable, reliable automation infrastructure used in regression and nightly runs.
+* Delivered telemetry and monitoring pipelines (Python, MongoDB, Grafana) that gave stakeholders actionable KPIs, enabling data-informed engineering and business decisions.
+* Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
 
