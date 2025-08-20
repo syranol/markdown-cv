@@ -46,14 +46,13 @@ title: Sean Lo's Resume
 
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
 
-* Developed and maintained a Python Appium Client/Server pytest testing framework for PS4, PS5, Windows, and Web that was utilized by 1,000+ developers and testers
-* Implemented and standardized CI/CD release pipelines utilizing Jenkins, Bash, and Groovy, facilitating automated semantic releases for 50+ teams delivering PlayStation React Native-based applications
-* Maintained and shipped features for a crucial PlayStation Network tool in JavaScript with Node.js and MongoDB, processing 100,000+ calls weekly across API, Web, and CLI for development and testing
-* Took ownership as both tech lead and product owner of a pivotal tool, driving localization automation and testing across PS4, PS5, and Windows platforms
-* Proactively led refactoring effort of multiple Python-based internal tools leveraged by 20+ teams daily for development, testing, and nightly regression jobs
-* Crafted a Python-based Telemetry app with MongoDB and Grafana, enabling shareholder insights and improving KPI monitoring and decision-making
-* Developed and led training workshops and tutorials for 200+ developers on the testing framework and other tools
-* Provided mentorship to team members, assisting them in navigating their career paths while sharing my expertise
+* Drove development of a Python-based Appium Client/Server automation framework, the backbone of end-to-end testing for QA and developer teams, adopted by 1,000+ users across PS4, PS5, Windows, and Web.
+* Standardized CI/CD release pipelines (Jenkins, Bash, Groovy) for 50+ teams, creating a consistent release process that improved velocity, reliability, and reduced integration overhead across the org.
+* Led and served as product owner for localization automation efforts across PS4, PS5, and Windows, eliminating repetitive manual QA cycles and accelerating time-to-market for global releases.
+* Owned and scaled a PlayStation Network developer tool (Node.js, MongoDB) that processed 100,000+ API/Web/CLI calls weekly, serving as a critical service for development and testing workflows.
+* Refactored and consolidated internal Python tooling relied on daily by 20+ teams, transforming fragmented scripts into maintainable, reliable automation infrastructure used in regression and nightly runs.
+* Delivered telemetry and monitoring pipelines (Python, MongoDB, Grafana) that gave stakeholders actionable KPIs, enabling data-informed engineering and business decisions.
+* Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
 
