@@ -23,10 +23,10 @@ title: Sean Lo's Resume
 ## Technical Skills
 
 * <span class="technical-one"> **Languages**: Python, Bash, JavaScript, TypeScript, C, C++, Java, Groovy, SQL, HTML5/CSS3 </span>
-* <span> **Automation & Frameworks**: Appium, Selenium, Pytest, Jenkins, Docker, Kubernetes, Terraform </span>
-* <span> **Robotics & Hardware**: Universal Robots, Staubli, Robotic Capture Frameworks, iOS Devices & Lighting Automation, Motion Control </span>
-* <span> **Data & Infra**: AWS, PostgreSQL, MongoDB, Grafana, PyTorch </span>
-* <span> **Other Tools**:Git, REST, GraphQL, CI/CD Pipelines </span>
+* <span class="technical-one"> **Automation & Frameworks**: Appium, Selenium, Pytest, Jenkins, Docker, Kubernetes, Terraform </span>
+* <span class="technical-one"> **Robotics & Hardware**: Universal Robots, Staubli, iOS Devices & Lighting Automation </span>
+* <span class="technical-one"> **Data & Infra**: AWS, PostgreSQL, MongoDB, Grafana, PyTorch </span>
+* <span class="technical-one"> **Other Tools**: Git, REST, GraphQL, CI/CD Pipelines </span>
 
 <!--   
   **Languages:** Python, JavaScript, Bash, C/C++, Groovy, SQL, HTML5/CSS3
@@ -40,51 +40,45 @@ title: Sean Lo's Resume
 
 <span> Cupertino, CA  <span class="small-right">May. 2024 - Aug. 2025</span> </span>
 
-* Architected the team’s core product: an end-to-end data collection automation framework spanning iOS devices, Staubli/UR robots, and RGB/IR lighting — foundational to anti-spoofing training data collection for Face ID and Optic ID.
+* Architected the team’s core product: an end-to-end automation framework spanning iOS devices, Staubli/UR robots, and RGB/IR lighting — foundational to anti-spoofing data collection for Face ID and Optic ID, enabling 40,000+ datasets quarterly (160k annually).
 * Scaled adoption across HWT Video Engineering, driving organizational efficiency by onboarding multiple teams through documentation, training, and mentorship.
-* Partnered with Hardware, QA, User Studies, and ML/Algorithm teams to deliver high-quality training data for Face ID and Optic ID anti-spoofing, bridging software and hardware workflows.
-* Designed secure data pipelines with verification, sanitization, and PPI compliance, ensuring dataset integrity and supporting Apple’s commitment to privacy.
+* Partnered cross-functionally with Hardware, QA, User Studies, and ML/Algorithm teams to deliver high-quality anti-spoofing training data, bridging software and hardware workflows.
+* Designed secure data pipelines with verification, sanitization, and PPI compliance, ensuring data integrity and meeting Apple’s privacy standards.
 * Improved reliability and throughput by implementing recovery and debugging mechanisms, reducing downtime and minimizing reruns across capture workflows.
-* Delivered RGB/IR lighting automation by reverse-engineering Arri IP interfaces, enabling reproducible low-light and IR/RGB test conditions critical for biometric model training.
-* Contributed to next-generation Apple initiatives, supporting confidential hardware/software programs with automation systems at the intersection of hardware and software.
+* Pioneered RGB/IR lighting automation by reverse-engineering Arri IP interfaces, enabling reproducible low-light and IR/RGB test conditions critical for biometric model training.
+* Trusted contributor to next-generation Apple initiatives, supporting confidential hardware/software programs with automation systems at the intersection of hardware and software.
 
 ### **Software Engineer II** -  *PlayStation (Sony)*
 
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
 
-* Drove development of a Python-based Appium Client/Server automation framework, the backbone of end-to-end testing for QA and developer teams, adopted by 1,000+ users across PS4, PS5, Windows, and Web.
-* Standardized CI/CD release pipelines (Jenkins, Bash, Groovy) for 50+ teams, creating a consistent release process that improved velocity, reliability, and reduced integration overhead across the org.
-* Led and served as product owner for localization automation efforts across PS4, PS5, and Windows, eliminating repetitive manual QA cycles and accelerating time-to-market for global releases.
-* Owned and scaled a PlayStation Network developer tool (Node.js, MongoDB) that processed 100,000+ API/Web/CLI calls weekly, serving as a critical service for development and testing workflows.
-* Refactored and consolidated internal Python tooling relied on daily by 20+ teams, transforming fragmented scripts into maintainable, reliable automation infrastructure used in regression and nightly runs.
-* Delivered telemetry and monitoring pipelines (Python, MongoDB, Grafana) that gave stakeholders actionable KPIs, enabling data-informed engineering and business decisions.
-* Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
+* Drove development of a Python-based Appium Client/Server automation framework, the backbone of end-to-end QA and development testing, adopted by 1,000+ engineers across PS4, PS5, Windows, and Web.
+* Served as product owner for localization automation tools, reducing manual QA cycles and accelerating global release schedules.
+* Standardized CI/CD pipelines (Jenkins, Bash, Groovy) for 50+ teams, accelerating release velocity and reliability org-wide.
+* Owned and scaled a PlayStation Network developer automation tool (Node.js, MongoDB) processing 100,000+ weekly API/Web/CLI calls, a critical service for dev and QA workflows.
+* Consolidated and refactored Python tooling used daily by 20+ teams, improving maintainability and nightly regression reliability.
+* Built telemetry pipelines and dashboards that surfaced KPIs and enabled data-driven engineering decisions.
+* Scaled adoption of automation systems org-wide, training 200+ engineers and mentoring peers to strengthen automation practices.
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
 
 <span> San Francisco, CA <span class="small-right">Mar. 2021 - Nov. 2021</span></span>
 
-* Assisted in the successful launch of PlayStation Direct's expansion to Europe for 10+ countries reaching 10,000,000+  monthly visitors 
-* Developed Selenium automation test plan and strategy for PlayStation Direct's checkout system and drove implementation of automated end-to-end test suite ensuring 100% coverage with a focus on stability and maintainability
-* Designed, developed, and enhanced internal JavaScript Selenium WebDriver libraries for interacting with Web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
-* Implemented and integrated CI/CD strategies using Groovy and Jenkins to improve testing and development efficiency and effectiveness
-* Worked in collaboration with the QA Lead, developers, project manager, and various stakeholder teams to ensure the continuous delivery of product releases
+* Supported the launch of PlayStation Direct in Europe (10+ countries, 10M+ monthly visitors) by building automated end-to-end checkout test suites with full coverage.
+* Developed and enhanced Selenium/WebDriver frameworks (JavaScript, Groovy, Jenkins) to automate web interactions and integrate CI/CD pipelines, improving test stability and release efficiency.
+* Collaborated with QA, developers, and project managers to ensure continuous delivery of high-quality product releases.
 
 ### **Release Engineer** - *Environmental Systems Research Institute (Esri)*
 
 <span> Redlands, CA <span class="small-right">Jun. 2020 - Mar. 2021</span></span>
 
-* Oversaw end-to-end release and testing of flagship ArcGIS enterprise products across 6 web and mobile platforms with ArcGIS Dashboard reaching 1,000,000,000+ calls daily
-* Designed and maintained automation scripts for key products using Python, Selenium, and Jenkins, ensuring efficient and reliable testing of these products
-* Performed rigorous testing on Release Candidates to ensure the high quality and stability of product releases
-* Collaborated with Project Managers, Product Engineers, and other teams to ensure the successful release of products
+* Oversaw release automation for ArcGIS enterprise products (1B+ daily calls across 6 platforms), developing Python/Selenium/Jenkins scripts and collaborating with engineers to ensure high-quality, stable releases.
 
 ### __Software Engineer Intern - *First International Computing (FIC)*__ <a href="https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer/?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bx6lRpc6VRv6h80zWrUTwyw%3D%3D](https://www.linkedin.com/in/syranol/overlay/1583300266405/single-media-viewer?type=DOCUMENT&profileId=ACoAABPldJ0BFSjGL3EC_DYMnNJCZ6ongKLGV8o&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKydn0%2FLdQY6Ut2HiDrOFtw%3D%3D"> <font color="teal"> Presentation </font> </a> 
 
 <span> Fremont, CA <span class="small-right">Jun. 2019 - Sep. 2019</span></span>
 
-* Contributed to the design and maintenance of data collection tools utilizing JavaScript, MySQL, Node.js, React and AWS
-* Researched and implemented Java Native Access (JNA) to convert C to Java, which reduced SDLC by 80% and omitted the need for boilerplates
+* Built data collection tools (JavaScript, Node.js, React, MySQL, AWS) and implemented Java Native Access (JNA) to streamline C-to-Java conversion, reducing SDLC by 80%
 
 ## Education
 **B.S. Computer Science** - *Oregon State University* <span class="small-right"> Sep. 2017 - Dec. 2019 </span>
