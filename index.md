@@ -53,9 +53,9 @@ title: Sean Lo's Resume
 * Drove development of a Python-based Appium Client/Server pytest testing framework, the backbone of end-to-end testing for QA and developer teams, adopted by 1,000+ users across PS4, PS5, Windows, and Web.
 * Standardized CI/CD pipelines for 50+ teams, accelerating release velocity and reliability org-wide.
 * Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
-* Served as product owner for localization automation tools, reducing manual QA cycles and accelerating global releases
+* Served as product owner for localization automation, reducing QA cycles and accelerating global releases.
 * Owned and scaled a PlayStation Network developer automation tool (Node.js, MongoDB) processing 100,000+ weekly API/Web/CLI calls, a critical service for dev and QA workflows.
-* Consolidated and refactored Python tooling used daily by 20+ teams, improving maintainability and nightly regression reliability.
+* Streamlined Python tooling across 20+ teams, enhancing maintainability and regression reliability.
 * Built telemetry and monitoring pipelines (Python, MongoDB, Grafana) that gave stakeholders actionable KPIs, enabling data-informed engineering and business decisions.
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
