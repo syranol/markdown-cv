@@ -51,12 +51,12 @@ title: Sean Lo's Resume
 <span> San Francisco, CA  <span class="small-right">Nov. 2021 - Mar. 2024</span> </span>
 
 * Drove development of a Python-based Appium Client/Server pytest testing framework, the backbone of end-to-end testing for QA and developer teams, adopted by 1,000+ users across PS4, PS5, Windows, and Web.
-* Standardized CI/CD pipelines (Jenkins, Bash, Groovy) for 50+ teams, accelerating release velocity and reliability org-wide.
+* Standardized CI/CD pipelines for 50+ teams, accelerating release velocity and reliability org-wide.
+* Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
 * Served as product owner for localization automation tools, reducing manual QA cycles and accelerating global releases
 * Owned and scaled a PlayStation Network developer automation tool (Node.js, MongoDB) processing 100,000+ weekly API/Web/CLI calls, a critical service for dev and QA workflows.
 * Consolidated and refactored Python tooling used daily by 20+ teams, improving maintainability and nightly regression reliability.
 * Built telemetry and monitoring pipelines (Python, MongoDB, Grafana) that gave stakeholders actionable KPIs, enabling data-informed engineering and business decisions.
-* Scaled adoption of automation frameworks org-wide through workshops and tutorials for 200+ developers, mentoring peers and elevating engineering efficiency across multiple teams.
 
 ### **Software Development Engineer in Test** - *PlayStation (Sony)* 
 
@@ -65,7 +65,6 @@ title: Sean Lo's Resume
 * Supported the launch of PlayStation Direct in Europe (10+ countries, 10M+ monthly visitors) by building automated end-to-end checkout test suites with full coverage.
 * Developed and enhanced Selenium/WebDriver frameworks (JavaScript, Groovy, Jenkins) to automate web interactions and integrate CI/CD pipelines, reaching 100% test stability and release efficiency.
 * Ehanced internal JavaScript Selenium WebDriver libraries for interacting with Web interfaces on the PlayStation websites, ensuring robust and efficient testing processes
-* Collaborated with QA, developers, and project managers to ensure continuous delivery of high-quality product releases.
 
 ### **Release Engineer** - *Environmental Systems Research Institute (Esri)*
 
