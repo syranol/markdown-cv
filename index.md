@@ -37,7 +37,7 @@ title: Sean Lo's Resume
 
 ### **Software Engineer** -  *Apple*
 
-<span> Cupertino, CA  <span class="small-right">Apr. 2024 - Current</span> </span>
+<span> Cupertino, CA  <span class="small-right">Apr. 2024 - Sep. 2025</span> </span>
 
 * Architected and led development of a Python-based automation framework, enabling large-scale, reliable anti-spoofing data collection (160,000+ datasets annually) supporting Face ID and Optic ID development.
 * Improved throughput and fault tolerance by implementing recovery mechanisms, advanced debugging tools, and parallelized workflows with multithreading/multiprocessing.
