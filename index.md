@@ -39,7 +39,7 @@ title: Sean Lo's Resume
 
 <span> Cupertino, CA  <span class="small-right">Apr. 2024 - Current </span> </span>
 
-* Architected and led development of a Python-based automation framework, enabling large-scale, reliable anti-spoofing data collection (160,000+ datasets annually) supporting Face ID and Optic ID development.
+* Architected and led a Python-based automation framework, setting technical direction for large-scale, reliable anti-spoofing data collection (160,000+ datasets annually) supporting Face ID and Optic ID development.
 * Improved throughput and fault tolerance by implementing recovery mechanisms, advanced debugging tools, and parallelized workflows with multithreading/multiprocessing.
 * Built secure, compliant data pipelines with validation, sanitization, and access controls, ensuring data integrity and privacy.
 * Partnered with QA, Research, and ML teams to deliver high-quality datasets and tooling, bridging software engineering, data engineering, and ML workflows.
